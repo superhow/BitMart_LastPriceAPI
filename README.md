@@ -8,17 +8,6 @@ BitMart-Python-SDK-API
 
 Python client for the [BitMart Cloud API](http://developer-pro.bitmart.com).
 
-
-
-Feature
-=========================
-- Provides exchange quick trading API
-- Easier withdrawal
-- Efficiency, higher speeds, and lower latencies
-- Priority in development and maintenance
-- Dedicated and responsive technical support
-- Provide webSocket apis calls
-
 Installation
 =========================
 
