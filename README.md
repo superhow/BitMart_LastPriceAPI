@@ -5,6 +5,7 @@ BitMart-Python-SDK-API
 </p>
 
 Python client for the [BitMart Cloud API](http://developer-pro.bitmart.com).
+BitMart contrat_ticker list (https://api-cloud.bitmart.com/contract/v1/tickers);
 
 Installation
 =========================
@@ -19,9 +20,9 @@ pip3 install -r requirements.txt
 
 * 3.Run 
 ```bash
-sudo python3 getTokenPairLastPrice.py
+sudo python3 getTokenPairLastPrice.py <symbol>
 ```
-
+symbol example - ETHUSDT, LITUSDT, BTCUSDT ...
 
 Usage
 =========================
