@@ -1,5 +1,3 @@
-[![Logo](./logo.png)](https://bitmart.com)
-
 BitMart-Python-SDK-API
 =========================
 <p align="left">
